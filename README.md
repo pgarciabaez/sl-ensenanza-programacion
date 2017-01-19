@@ -1,22 +1,20 @@
 # Migración a SL en la enseñanza de la programación {#migraci-n-a-sl-en-la-ense-anza-de-la-programaci-n}
 
-Migración a software libre en la enseñanza de la programación
+__Patricio García Báez__
 
-Patricio García Báez
+__Dpto. de Estadística, I.O. y Computación__
 
-Dpto. de Estadística, I.O. y Computación
+__Universidad de La Laguna__
 
-Universidad de La Laguna
+__38271 La Laguna, S/C Tenerife__
 
-38271 La Laguna, S/C Tenerife
+__e-mail:__ ``pgarcia@ull.es``
 
-e-mail: pgarcia@ull.es
-
-Resumen
+## Resumen
 
 Las universidades son plataformas ideales en las que es posible la utilización y promoción del software libre, constituyendo además un entorno particularmente adecuado para el crecimiento de aplicaciones desarrolladas bajo esta filosofía. El estado actual de las aplicaciones existentes en el software libre permite satisfacer en gran medida las necesidades docentes de la mayoría de la comunidad universitaria, especialmente en la enseñanza de la programación. Esto queda demostrado en iniciativas que se llevan a cabo desde hace algunos años en distintos centros de la Universidad de La Laguna. Relataremos aquí la experiencia que ha supuesto la implantación de herramientas libres de desarrollo de programas en la enseñanza de la programación dentro de la Universidad de La Laguna.
 
-*   Enseñanza de la programación en la ULL
+## Enseñanza de la programación en la ULL
 
 En la Universidad de La Laguna (ULL) existen múltiples centros donde se imparten asignaturas relacionadas con la enseñanza de la programación. Gran parte de esas asignaturas son impartidas por el Departamento de Estadística, I.O. y Computación y están encuadradas en los primeros cuatrimestres de las titulaciones. Entre estas titulaciones se encuentran:
 
@@ -28,7 +26,7 @@ En la Universidad de La Laguna (ULL) existen múltiples centros donde se imparte
 
 *   Ingeniero Técnico Industrial, especialidad Mecánica
 
-*   *   ETSII
+### ETSII
 
 Mención aparte merece la Escuela Técnica Superior de Ingeniería Informática (ETSII) [1], que oferta actualmente tres titulaciones, dos de primer ciclo y una de segundo ciclo:
 
@@ -58,7 +56,7 @@ La importancia de la realización de las prácticas de cara a la preparación pa
 
 *   ![](export/assets/imagen9.svm)Matriz de dispersión entre las notas del examen y las notas de prácticas, cursos 2001/2002 y 2002/2003
 
-*   *   Metodología y tecnología de la programación I
+### Metodología y tecnología de la programación I
 
 Centraremos nuestros análisis en la asignatura de Metodología y tecnología de la programación I [2], ya que normalmente resulta ser la primera toma de contacto del alumno con la programación. El temario que se imparte actualmente en ella es el siguiente:
 
@@ -84,7 +82,7 @@ Centraremos nuestros análisis en la asignatura de Metodología y tecnología de
 
 Habitualmente el alumno ha de realizar unas 13 prácticas a lo largo de la asignatura, de las cuales las tres primeas son tuteladas: el alumno asiste al aula y realiza unos ejercicios introductorios al sistema operativo y entorno de desarrollo. En las restantes prácticas el alumno, con la asistencia del profesor, ha de realizar un programa relacionado con el tema de dicha semana y que será presentado al profesor.
 
-*   Software libre
+## Software libre
 
 El movimiento de software libre (SL) se fundamenta en una filosofía que supone que un usuario puede estudiar y modificar el funcionamiento de un programa para adaptarlo a sus necesidades y que puede distribuir copias del mismo incorporando esas modificaciones. Esta filosofía está soportada legalmente por un tipo de licencia libre. Una condición imprescindible para cumplir con estos requisitos es que el código fuente de las aplicaciones esté disponible para sus usuarios finales. Es por ello que con frecuencia a los programas de SL también se les denomina aplicaciones de código abierto.
 
@@ -98,7 +96,7 @@ Una razón adicional para promover el uso de SL es que al hacerlo estamos potenc
 
 En el contexto de la docencia en informática, el hecho de que los alumnos dispongan del código fuente de estas aplicaciones les permite profundizar mucho más en su conocimiento y para los docentes son una fuente casi inagotable de ejercicios y posibilidades educativas. En el caso de otras disciplinas, veremos que también son importantes las ventajas que conlleva la implantación de SL en las aulas.
 
-*   ETSII y el software libre
+## ETSII y el software libre
 
 La ETSII (antiguo Centro Superior de Informática) desde su inicios, en 1990, siempre ha utilizado SL asociado a sus sistemas informáticos unixs (HP-UX y Solaris). El sistema operativo GNU/Linux en sus inicios fue introducido para permitir que los PCs pudieran conectarse en modo gráfico a los servidores Sun. Poco a poco ha ido ganando mas relevancia como sistema operativo autónomo, convirtiéndose hoy en día en el mas utilizado en las aulas de informática, con un 65% de los accesos, seguido muy por detrás por Soraris (21%) y Windows (14%). En la Figura 3 se muestra la evolución de los accesos en parte de los meses del año 2002.
 
@@ -126,9 +124,9 @@ El apoyo al SL dentro de la ULL es notable entre sus miembros, como así lo ates
 
 Lamentablemente, y a pesar de las promesas electorales, el apoyo con el que cuenta el SL entre los miembros de la ULL no se ha aún conseguido que sea asumido por las instituciones.
 
-*   Migración a software libre
+## Migración a software libre
 
-    *   Antecedentes
+### Antecedentes
 
 Hasta el curso 2000/2001 las prácticas de las asignaturas venían impartiéndose sobre el sistema operativo MS-DOS haciendo uso del los compiladores de la casa Borland: TurboPascal y BorlandPascal, para las asignaturas de primer curso, y BorlandC y TurboC para las de segundo curso. Ello suponía las siguientes dificultades:
 
@@ -144,7 +142,7 @@ Las opciones que se barajaron era migrar hacia un entorno GNU/Linux o bien hacia
 
 La migración en la ETSII arrastró también migraciones en las otras titulaciones, principalmente debido a que compartían profesores y aulas con la ETSII.
 
-*   *   Herramientas elegidas
+### Herramientas elegidas
 
 Las herramientas de trabajo elegidas fueron por tanto:
 
@@ -158,7 +156,7 @@ Las herramientas de trabajo elegidas fueron por tanto:
 
 *   Entorno depurador DDD [7], que permitía su uso también con múltiples lenguajes.
 
-*   *   Acciones de apoyo
+### Acciones de apoyo
 
 Para detectar posibles dificultades en la migración durante los finales de lostres últimos cursos se ha distribuido entre los alumnos una encuesta [8] sobre la implantación del nuevo entorno de desarrollo. Entre las principales dificultades detectadas tanto entre alumnos como profesores pudieron destacarse:
 
@@ -180,7 +178,7 @@ Para paliar los efectos de estas dificultades se llevaron a cabo las siguientes 
 
 *   Insistir en la posibilidad de utilizar las herramientas de desarrollo también bajo el entorno Windows: esto permitía a los alumnos menos avezados la realización de las prácticas en sus casas sin necesidad de instalar GNU/Linux.
 
-*   *   ETSII::Live Guachinche
+## ETSII::Live Guachinche
 
 Otra iniciativa que se ha llevado es conducente a paliar las dificultades que se encuentran los alumnos en la instalación de un entorno informático de trabajo, que incluya las aplicaciones utilizadas para la realización de prácticas. Esta tarea se encuentra agravada por los escasos conocimientos de los alumnos en administración de sistemas informáticos. Para ello en el presente curso se ha distribuido a cada alumno un CD Rom que contiene una distribución de GNU/Linux que denominamos ETSII::Live Guachinche [9]. Entre las características destacables está la inclusión de todas las aplicaciones de SL que se necesitan en el desarrollo de sus asignaturas, y que es posible arrancar dichas aplicaciones sin necesidad realizar ninguna instalación en el disco duro, pudiendo por tanto trabajar con ella en cualquier PC. Además dispone de una utilidad que permite instalarlo en el propio ordenador, con lo que se agiliza su uso.
 
@@ -188,7 +186,7 @@ La creación de esta distribución se ha llevado a cabo por los propios alumnos 
 
 Esta iniciativa ha tenido muy buena acogida dentro de la ETSII y su entorno, agotándose las 500 copias disponibles en apenas dos días. El foro de soporte almacena unas 70 preguntas y respuestas, actualmente se mantiene una lista donde se recogen sugerencias para futuras versiones.
 
-*   Resultados
+## Resultados
 
 *   ![](export/assets/imagen1.svm)Respuestas a la pregunta “¿Cuándo instalaste Linux por primera vez?”
 
@@ -220,13 +218,13 @@ Finalmente para comprobar si la migración ha afectado a los resultados académi
 
 *   ![](export/assets/imagen7.svm)Proporcion de notas academicas entre los cursos 1998/1999 y 2002/2003
 
-*   Conclusiones
+### Conclusiones
 
 A pesar de las dificultades planteadas en un inicio, podemos considerar como un éxito la migración efectuada. Hemos logrado avanzar hacia un entorno mucho mas homogéneo y útil en los distintos cursos de las titulaciones. También la Universidad y los propios alumnos han conseguido un ahorro considerable en gastos de licencias de software.
 
 Las sociedad se encuentra aún mas retrasada que nosotros en la implantación de SL, pero como bien dijo Edsger Dijkstra, _no es tarea de la Universidad brindar lo que la sociedad pide, sino lo que la sociedad necesita_.
 
-Referencias
+## Referencias
 
 *   [http://www.etsii.ull.es/](http://www.etsii.ull.es/)
 
