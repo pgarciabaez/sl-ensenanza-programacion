@@ -1,4 +1,5 @@
-# Migración a SL en la enseñanza de la programación {#migraci-n-a-sl-en-la-ense-anza-de-la-programaci-n}
+# Migración a SL en la enseñanza de la programación [^1]
+[^1]: Este trabajo fue presentado en el [I Congreso de las Tecnologías del Softaware Libre](https://dialnet.unirioja.es/servlet/libro?codigo=476932) (La Coruña, 2005)
 
 __Patricio García Báez__
 
@@ -178,7 +179,7 @@ Para paliar los efectos de estas dificultades se llevaron a cabo las siguientes 
 
 *   Insistir en la posibilidad de utilizar las herramientas de desarrollo también bajo el entorno Windows: esto permitía a los alumnos menos avezados la realización de las prácticas en sus casas sin necesidad de instalar GNU/Linux.
 
-## ETSII::Live Guachinche
+### ETSII::Live Guachinche
 
 Otra iniciativa que se ha llevado es conducente a paliar las dificultades que se encuentran los alumnos en la instalación de un entorno informático de trabajo, que incluya las aplicaciones utilizadas para la realización de prácticas. Esta tarea se encuentra agravada por los escasos conocimientos de los alumnos en administración de sistemas informáticos. Para ello en el presente curso se ha distribuido a cada alumno un CD Rom que contiene una distribución de GNU/Linux que denominamos ETSII::Live Guachinche [9]. Entre las características destacables está la inclusión de todas las aplicaciones de SL que se necesitan en el desarrollo de sus asignaturas, y que es posible arrancar dichas aplicaciones sin necesidad realizar ninguna instalación en el disco duro, pudiendo por tanto trabajar con ella en cualquier PC. Además dispone de una utilidad que permite instalarlo en el propio ordenador, con lo que se agiliza su uso.
 
@@ -218,7 +219,7 @@ Finalmente para comprobar si la migración ha afectado a los resultados académi
 
 *   ![](export/assets/imagen7.svm)Proporcion de notas academicas entre los cursos 1998/1999 y 2002/2003
 
-### Conclusiones
+## Conclusiones
 
 A pesar de las dificultades planteadas en un inicio, podemos considerar como un éxito la migración efectuada. Hemos logrado avanzar hacia un entorno mucho mas homogéneo y útil en los distintos cursos de las titulaciones. También la Universidad y los propios alumnos han conseguido un ahorro considerable en gastos de licencias de software.
 
