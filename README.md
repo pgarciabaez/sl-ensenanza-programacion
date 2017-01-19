@@ -20,11 +20,8 @@ Las universidades son plataformas ideales en las que es posible la utilización 
 En la Universidad de La Laguna (ULL) existen múltiples centros donde se imparten asignaturas relacionadas con la enseñanza de la programación. Gran parte de esas asignaturas son impartidas por el Departamento de Estadística, I.O. y Computación y están encuadradas en los primeros cuatrimestres de las titulaciones. Entre estas titulaciones se encuentran:
 
 *   Licenciado en Matemáticas
-
 *   Licenciado en Ciencias y Técnicas Estadísticas
-
 *   Ingeniero Técnico Industrial, especialidad Electrónica
-
 *   Ingeniero Técnico Industrial, especialidad Mecánica
 
 ### ETSII
@@ -32,21 +29,15 @@ En la Universidad de La Laguna (ULL) existen múltiples centros donde se imparte
 Mención aparte merece la Escuela Técnica Superior de Ingeniería Informática (ETSII) [1], que oferta actualmente tres titulaciones, dos de primer ciclo y una de segundo ciclo:
 
 *   Ingeniero Técnico en Informática de Gestión
-
 *   Ingeniero Técnico en Informática de Sistemas
-
 *   Ingeniero en Informática
 
 Las asignaturas troncales y obligatorias mas relacionadas con la enseñanza de la programación comunes a las dos titulaciones de primer ciclo y que se imparten dentro de los tres primeros cuatrimestres son las siguientes:
 
 *   Metodología y tecnología de la programación I, 7,5 créditos, primer cuatrimestre
-
 *   Metodología y tecnología de la programación II, 7,5 créditos, segundo cuatrimestre
-
 *   Grafos y algoritmos, 9 créditos, segundo cuatrimestre
-
 *   Estructuras de datos y de la información I, 6 créditos, tercer cuatrimestres
-
 *   Teoría de autómatas y lenguajes formales, 9 créditos, tercer cuatrimestres
 
 Todas ellas siguen un esquema de funcionamiento parecido, donde parte de los créditos son impartidos en prácticas a realizar en las aulas de ordenadores. Cada práctica entregada por el alumno es valorada por el profesor y al final de la asignatura se obtiene una nota de prácticas del alumno. Si el alumno consigue superar la parte práctica de la asignatura puede acceder a presentarse a un examen. La nota final de la asignatura se extrae en base a ponderar la nota de prácticas y la nota del examen, normalmente 20% y 80% respectivamente.
@@ -54,7 +45,6 @@ Todas ellas siguen un esquema de funcionamiento parecido, donde parte de los cr�
 La importancia de la realización de las prácticas de cara a la preparación para el examen viene reflejada en la Figura 1 y 2, donde se muestran unas gráficas en que se aprecia la clara correlación existente entre la nota de prácticas y la nota del examen en la asignatura Metodología y tecnología de la programación I.
 
 *   ![](export/assets/imagen8.svm)Matriz de dispersión entre las notas del examen y las notas de prácticas, cursos 1998/1999, 1999/2000 y 2000/2001
-
 *   ![](export/assets/imagen9.svm)Matriz de dispersión entre las notas del examen y las notas de prácticas, cursos 2001/2002 y 2002/2003
 
 ### Metodología y tecnología de la programación I
@@ -62,23 +52,14 @@ La importancia de la realización de las prácticas de cara a la preparación pa
 Centraremos nuestros análisis en la asignatura de Metodología y tecnología de la programación I [2], ya que normalmente resulta ser la primera toma de contacto del alumno con la programación. El temario que se imparte actualmente en ella es el siguiente:
 
 *   Introducción a los ordenadores y al sistema operativo (12%)
-
 *   Algoritmos y programas (8%)
-
 *   Tipos de datos (8%)
-
 *   Sentencias de control (8%)
-
 *   Subprogramas (8%)
-
 *   Descomposición modular y documentación (8%)
-
 *   Ficheros (8%)
-
 *   Punteros (8%)
-
 *   Listas, pilas y colas (16%)
-
 *   Recursividad y backtracking (16%)
 
 Habitualmente el alumno ha de realizar unas 13 prácticas a lo largo de la asignatura, de las cuales las tres primeas son tuteladas: el alumno asiste al aula y realiza unos ejercicios introductorios al sistema operativo y entorno de desarrollo. En las restantes prácticas el alumno, con la asistencia del profesor, ha de realizar un programa relacionado con el tema de dicha semana y que será presentado al profesor.
@@ -110,15 +91,10 @@ También dentro de la ETSII y otros centros de la ULL existen miembros de Grupo 
 A raíz de la organización de una fiesta de instalación de GNU/Linux se creó una lista de distribución dentro de la ULL. Hoy en día en esa lista sus miembros discuten sobre SL y organizan iniciativas en apoyo de éste. Entre los proyectos e iniciativas relacionadas con la Universidad [4] en que han colaborado miembros de esta lista destacamos:
 
 *   Elaboración de un dossier sobre el apoyo de la Universidad de La Laguna hacia el SL y recogida de firmas.
-
 *   Curso y libro CILA: Anualmente se organizan, auspiciados por la Facultad de Matemáticas, unos cursos de Introducción al Linux para Alumnos (CILA). En ese marco se ha elaborado un libro con colaboraciones de toda España.
-
 *   Distintas conferencias, talleres, proyecciones, fiestas de instalación y mesas redondas relacionados con el SL.
-
 *   Creación de Guachinche::Live CD [Referencia]: una distribución de GNU/Linux que puede arrancar desde el CD-ROM.
-
 *   Portal de la futura Oficina del Software Libre (OSL) de la ULL.
-
 *   Lebrillo: Web para la gestión de proyectos relacionados con el SL.
 
 El apoyo al SL dentro de la ULL es notable entre sus miembros, como así lo atestigua las mas de 300 firmas recogidas en la primera iniciativa, que pedía a los candidatos a Rector en las elecciones del 2003 que dieran también su apoyo institucional. Es de destacar dentro de dichas firmas el predominio de miembros de la ETSII, donde se encuentran gran parte de los expertos informáticos de la ULL, y por tanto conocedores de lo que el SL significa.
@@ -132,11 +108,8 @@ Lamentablemente, y a pesar de las promesas electorales, el apoyo con el que cuen
 Hasta el curso 2000/2001 las prácticas de las asignaturas venían impartiéndose sobre el sistema operativo MS-DOS haciendo uso del los compiladores de la casa Borland: TurboPascal y BorlandPascal, para las asignaturas de primer curso, y BorlandC y TurboC para las de segundo curso. Ello suponía las siguientes dificultades:
 
 *   El MS-DOS en la ETSII iba a dejar de mantenerse.
-
 *   Borland no se planteaba seguir sacando nuevas versiones de compiladores para MS-DOS, sino aconsejaban pasarse a Delphi o C++Builder bajo entorno Windows.
-
 *   La exclusividad de los compiladores usados a una sola plataforma hacía que en posteriores asignaturas el alumno tuviera que aprender otras herramientas de desarrollo.
-
 *   Al ser herramientas de pago, si el alumno deseaba trabajar en su casa necesitaba adquirir el producto o trabajar con copias ilegales.
 
 Las opciones que se barajaron era migrar hacia un entorno GNU/Linux o bien hacia un entorno Windows. Además se contaba con la dificultad de que en las aulas de informática habían muchos ordenadores con bajas prestaciones, que bajo MS-DOS y GNU/Linux podrían seguir trabajando, pero que carecían de recursos para la versión de aquellos momentos de Windows (NT workstation). Esto junto al hecho de que con Windows no se resolvían las dos últimas dificultades de la lista anterior y a las ventajas de SL decantaron que los profesores eligieran GNU/Linux como plataforma de trabajo.
@@ -148,13 +121,9 @@ La migración en la ETSII arrastró también migraciones en las otras titulacion
 Las herramientas de trabajo elegidas fueron por tanto:
 
 *   GNU/Linux como sistema operativo.
-
 *   Compilador Free Pascal [5], para las asignaturas de primer curso, ya que mantenía la compatibilidad con los productos de Borland y podía ejecutarse en el resto de plataformas de la ETSII.
-
 *   Compilador GNU gcc (C y C++) para las asignaturas de segundo curso.
-
 *   Editor Xemacs [6], debido a su potencia para la edición de programas y su capacidad de trabajar con múltiples lenguajes, herramientas y plataformas.
-
 *   Entorno depurador DDD [7], que permitía su uso también con múltiples lenguajes.
 
 ### Acciones de apoyo
@@ -162,21 +131,15 @@ Las herramientas de trabajo elegidas fueron por tanto:
 Para detectar posibles dificultades en la migración durante los finales de lostres últimos cursos se ha distribuido entre los alumnos una encuesta [8] sobre la implantación del nuevo entorno de desarrollo. Entre las principales dificultades detectadas tanto entre alumnos como profesores pudieron destacarse:
 
 *   Falta de formación de algunos profesores en dicho entorno de desarrollo.
-
 *   Escasa familiarización también en el sistema operativo GNU/Linux, tanto de profesores como de alumnos.
-
 *   Dificultades para la instalación y configuración del entorno de trabajo.
 
 Para paliar los efectos de estas dificultades se llevaron a cabo las siguientes acciones:
 
 *   Organización de seminarios para profesores: en ellos, los profesores que ya contaban con experiencia en el nuevo entorno de desarrollo adiestraban a los recién llegados y servían como apoyo en las tareas de instalación y configuración de herramientas.
-
 *   Organización de cursos de GNU/Linux y fiestas de instalación: en estos cursos y fiesta los propios alumnos de cursos superiores enseñan a sus compañeros recién llegados a la ETSII.
-
 *   Refuerzo en el temario de la parte dediacada a la introducción del sistema operativo y su entorno: se incrementó de un 16% a un 20%, aumentando el número de prácticas tuteladas de dos a tres.
-
 *   Creación de foros de discusión a través de internet: así se solventan dudas sobre el entorno de trabajo, que son respondidas por los propios alumnos y profesores.
-
 *   Insistir en la posibilidad de utilizar las herramientas de desarrollo también bajo el entorno Windows: esto permitía a los alumnos menos avezados la realización de las prácticas en sus casas sin necesidad de instalar GNU/Linux.
 
 ### ETSII::Live Guachinche
@@ -228,19 +191,11 @@ Las sociedad se encuentra aún mas retrasada que nosotros en la implantación de
 ## Referencias
 
 *   [http://www.etsii.ull.es/](http://www.etsii.ull.es/)
-
 *   [http://www.etsii.ull.es/~mtp1/](http://www.etsii.ull.es/~mtp1/)
-
 *   [http://osl.ull.es/Members/pgb/ijcticdu/oodocument_view](http://osl.ull.es/Members/pgb/ijcticdu/oodocument_view)
-
 *   [http://osl.ull.es/Proyectos/](http://osl.ull.es/Proyectos/)
-
 *   [http://www.freepascal.org/](http://www.freepascal.org/)
-
 *   [http://www.xemacs.org/](http://www.xemacs.org/)
-
 *   [http://www.gnu.org/software/ddd/](http://www.gnu.org/software/ddd/)
-
 *   [http://osl.ull.es/Members/pgb/encuestalinux/oodocument_view](http://osl.ull.es/Members/pgb/encuestalinux/oodocument_view)
-
 *   [http://guachinche.csi.ull.es/](http://guachinche.csi.ull.es/)
