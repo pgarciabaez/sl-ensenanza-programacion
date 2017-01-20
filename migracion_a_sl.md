@@ -23,7 +23,7 @@ Las herramientas de trabajo elegidas fueron por tanto:
 * Editor Xemacs [6], debido a su potencia para la edición de programas y su capacidad de trabajar con múltiples lenguajes, herramientas y plataformas.
 * Entorno depurador DDD [7], que permitía su uso también con múltiples lenguajes.
 
-### Acciones de apoyo
+### Acciones de apoyo {#acciones}
 
 Para detectar posibles dificultades en la migración durante los finales de lostres últimos cursos se ha distribuido entre los alumnos una encuesta [8] sobre la implantación del nuevo entorno de desarrollo. Entre las principales dificultades detectadas tanto entre alumnos como profesores pudieron destacarse:
 

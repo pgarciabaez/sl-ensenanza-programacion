@@ -9,6 +9,7 @@
 * [Migración a software libre](migracion_a_sl.md)
     * [Antecedentes](migracion_a_sl.md#antecedentes)
     * [Herramientas elegidas](migracion_a_sl.md#herramientas)
+    * [Acciones de apoyo](migracion_a_sl.md#acciones)
 * [Resultados](resultados.md)
 * [Conclusiones](conclusiones.md)
 
