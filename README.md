@@ -9,7 +9,7 @@ __Universidad de La Laguna__
 
 __38271 La Laguna, S/C Tenerife__
 
-__e-mail:__ ``pgarcia@ull.es``
+__e-mail:__ ``pgarcia AT ull.es``
 
 ## Resumen
 
@@ -152,7 +152,7 @@ Esta iniciativa ha tenido muy buena acogida dentro de la ETSII y su entorno, ago
 
 ## Resultados
 
-*   ![](export/assets/imagen1.svm)Respuestas a la pregunta “¿Cuándo instalaste Linux por primera vez?”
+*   ![](export/assets/imagen1.svg)Respuestas a la pregunta “¿Cuándo instalaste Linux por primera vez?”
 
 En la Figura 4 podemos ver como el número de alumnos que no ha instalado Linux se ha mantenido en torno a un 45%. Desde el curso 2003/2004 esta situación en ya no es tan grave debido a la utilización de Guachinche, que no necesita instalación. Por otro lado el número de alumnos que a comienzos de curso ya tenían instalado Linux se ha incrementado en este último curso.
 
