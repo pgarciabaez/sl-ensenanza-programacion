@@ -14,19 +14,6 @@ __e-mail:__ ``pgarcia AT ull.es``
 
 
 
-## Software libre
-
-El movimiento de software libre (SL) se fundamenta en una filosofía que supone que un usuario puede estudiar y modificar el funcionamiento de un programa para adaptarlo a sus necesidades y que puede distribuir copias del mismo incorporando esas modificaciones. Esta filosofía está soportada legalmente por un tipo de licencia libre. Una condición imprescindible para cumplir con estos requisitos es que el código fuente de las aplicaciones esté disponible para sus usuarios finales. Es por ello que con frecuencia a los programas de SL también se les denomina aplicaciones de código abierto.
-
-En la actualidad hay varios segmentos del mercado informático donde el SL le está ganando terreno al software propietario. Por ejemplo, la mayoría de los servidores web utilizan Apache, una aplicación de código abierto. Otros proyectos que están teniendo un alto grado de implantación son el sistema operativo GNU/Linux, la suite ofimática OpenOffice.org, o el navegador Mozilla, por citar sólo algunos ejemplos. El factor más importante que limita la expansión del SL es el desconocimiento de su existencia por parte del gran público. Otros factores que inciden negativamente en el éxito del SL son: en primer lugar, la idea errónea de que todo lo que es gratis carece de un nivel suficiente de calidad, y en segundo lugar, que son muchos quienes piensan que los programas libres son más complejos de manejar que sus alternativas propietarias.
-
-El SL está en auge y ello se debe en gran medida a la cantidad de iniciativas que han apostado firmemente por su implantación en diferentes ámbitos. Las universidades constituyen un entorno particularmente adecuado para el crecimiento de aplicaciones desarrolladas bajo esta filosofía [3], puesto que el modelo de desarrollo del SL, en el que se prima el compartir e intercambiar ideas, es muy parecido al que siguen la Ciencia y la Tecnología donde los descubrimientos se publican y comparten para, a partir de ellos, producir otros nuevos. De hecho, la mayoría de este tipo de aplicaciones surge de entornos académicos.
-
-En la universidad se deben formar profesionales con capacidad de dar respuestas a los problemas que encontrarán en el ejercicio de su actividad. Si sólo exponemos a nuestros estudiantes a la utilización de herramientas propietarias, será este tipo de herramientas las que utilicen cuando ejerzan su profesión y así seguiremos promoviendo el status quo. Nuestros estudiantes deben conocer las diferentes formas de resolver un problema y llegado el momento decidirán la mejor solución para cada caso. Si sólo les enseñamos una forma de trabajar, estarán limitados en el ejercicio de su profesión.
-
-Una razón adicional para promover el uso de SL es que al hacerlo estamos potenciando nuestra industria local y la formación de profesionales en nuevas tecnologías. Por último, la razón más evidente e importante para promocionar la utilización de SL en las aulas universitarias, viene determinada por la gran calidad que aportan algunos productos desarrollados bajo este modelo. Se trata en muchos casos de herramientas, con una calidad similar o superior a su contrapartida propietaria, que permiten eliminar la copia ilegal de programas.
-
-En el contexto de la docencia en informática, el hecho de que los alumnos dispongan del código fuente de estas aplicaciones les permite profundizar mucho más en su conocimiento y para los docentes son una fuente casi inagotable de ejercicios y posibilidades educativas. En el caso de otras disciplinas, veremos que también son importantes las ventajas que conlleva la implantación de SL en las aulas.
 
 ## ETSII y el software libre
 
