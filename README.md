@@ -152,7 +152,7 @@ Esta iniciativa ha tenido muy buena acogida dentro de la ETSII y su entorno, ago
 
 ## Resultados
 
-*   ![](assets/imagen1.png)Respuestas a la pregunta “¿Cuándo instalaste Linux por primera vez?”
+![Respuestas a la pregunta “¿Cuándo instalaste Linux por primera vez?”](assets/imagen1.png)**Figura ?:** Respuestas a la pregunta “¿Cuándo instalaste Linux por primera vez?”
 
 En la Figura 4 podemos ver como el número de alumnos que no ha instalado Linux se ha mantenido en torno a un 45%. Desde el curso 2003/2004 esta situación en ya no es tan grave debido a la utilización de Guachinche, que no necesita instalación. Por otro lado el número de alumnos que a comienzos de curso ya tenían instalado Linux se ha incrementado en este último curso.
 
