@@ -1,4 +1,4 @@
-# Migración a SL en la enseñanza de la programación [^1]
+# Migración a SL en la enseñanza de la programación[^1]
 [^1]: Este trabajo fue presentado en el [I Congreso de las Tecnologías del Softaware Libre](https://dialnet.unirioja.es/servlet/libro?codigo=476932) (La Coruña, 2005)
 
 __Patricio García Báez__

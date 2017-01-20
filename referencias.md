@@ -1,4 +1,5 @@
-## Referencias
+## Referencias [^1]
+[^1]: Debido a lo antiguo del trabajo muchas de estos enlaces están ya perdidos
 
 1. [http://www.etsii.ull.es/](http://www.etsii.ull.es/)
 * [http://www.etsii.ull.es/~mtp1/](http://www.etsii.ull.es/~mtp1/)
