@@ -13,7 +13,7 @@ Las opciones que se barajaron era migrar hacia un entorno GNU/Linux o bien hacia
 
 La migración en la ETSII arrastró también migraciones en las otras titulaciones, principalmente debido a que compartían profesores y aulas con la ETSII.
 
-### Herramientas elegidas
+### Herramientas elegidas {#herramientas}
 
 Las herramientas de trabajo elegidas fueron por tanto:
 
