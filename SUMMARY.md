@@ -10,6 +10,7 @@
     * [Antecedentes](migracion_a_sl.md#antecedentes)
     * [Herramientas elegidas](migracion_a_sl.md#herramientas)
     * [Acciones de apoyo](migracion_a_sl.md#acciones)
+    * [ETSII::Live Guachinche](migracion_a_sl.md#guachinche)
 * [Resultados](resultados.md)
 * [Conclusiones](conclusiones.md)
 
