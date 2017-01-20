@@ -1,6 +1,6 @@
 ## Migración a software libre
 
-### Antecedentes
+### Antecedentes {#antecedentes}
 
 Hasta el curso 2000/2001 las prácticas de las asignaturas venían impartiéndose sobre el sistema operativo MS-DOS haciendo uso del los compiladores de la casa Borland: TurboPascal y BorlandPascal, para las asignaturas de primer curso, y BorlandC y TurboC para las de segundo curso. Ello suponía las siguientes dificultades:
 
