@@ -44,8 +44,12 @@ Todas ellas siguen un esquema de funcionamiento parecido, donde parte de los cr�
 
 La importancia de la realización de las prácticas de cara a la preparación para el examen viene reflejada en la Figura 1 y 2, donde se muestran unas gráficas en que se aprecia la clara correlación existente entre la nota de prácticas y la nota del examen en la asignatura Metodología y tecnología de la programación I.
 
-![Matriz de dispersión entre las notas del examen y las notas de prácticas, cursos 1998/1999, 1999/2000 y 2000/2001](assets/imagen8.png)**Figura 1:** Matriz de dispersión entre las notas del examen y las notas de prácticas, cursos 1998/1999, 1999/2000 y 2000/2001
-![Matriz de dispersión entre las notas del examen y las notas de prácticas, cursos 2001/2002 y 2002/2003](assets/imagen9.png)**Figura 2:** Matriz de dispersión entre las notas del examen y las notas de prácticas, cursos 2001/2002 y 2002/2003
+![Matriz de dispersión entre las notas del examen y las notas de prácticas, cursos 1998/1999, 1999/2000 y 2000/2001](assets/imagen8.png)
+
+**Figura 1:** Matriz de dispersión entre las notas del examen y las notas de prácticas, cursos 1998/1999, 1999/2000 y 2000/2001
+![Matriz de dispersión entre las notas del examen y las notas de prácticas, cursos 2001/2002 y 2002/2003](assets/imagen9.png)
+
+**Figura 2:** Matriz de dispersión entre las notas del examen y las notas de prácticas, cursos 2001/2002 y 2002/2003
 
 ### Metodología y tecnología de la programación I
 
@@ -82,7 +86,9 @@ En el contexto de la docencia en informática, el hecho de que los alumnos dispo
 
 La ETSII (antiguo Centro Superior de Informática) desde su inicios, en 1990, siempre ha utilizado SL asociado a sus sistemas informáticos unixs (HP-UX y Solaris). El sistema operativo GNU/Linux en sus inicios fue introducido para permitir que los PCs pudieran conectarse en modo gráfico a los servidores Sun. Poco a poco ha ido ganando mas relevancia como sistema operativo autónomo, convirtiéndose hoy en día en el mas utilizado en las aulas de informática, con un 65% de los accesos, seguido muy por detrás por Soraris (21%) y Windows (14%). En la Figura 3 se muestra la evolución de los accesos en parte de los meses del año 2002.
 
-![Uso de los distintos sistemas operativos en las salas del centro de cálculo ETSII](assets/imagen10.png)**Figura 3:** Uso de los distintos sistemas operativos en las salas del centro de cálculo ETSII
+![Uso de los distintos sistemas operativos en las salas del centro de cálculo ETSII](assets/imagen10.png)
+
+**Figura 3:** Uso de los distintos sistemas operativos en las salas del centro de cálculo ETSII
 
 Un factor clave que determinó el aumento de utilización de GNU/Linux y el SL fue el abandono de los servidores Novell, en el año 2001\. Hasta entonces dichos servidores se encargaban de soportar al sistema operativo MS-DOS, que era el utilizado para impartir las asignaturas descritas en el apartado anterior. Las alternativas existentes era migrar hacia Windows o hacia GNU/Linux.
 
@@ -93,7 +99,7 @@ A raíz de la organización de una fiesta de instalación de GNU/Linux se creó 
 * Elaboración de un dossier sobre el apoyo de la Universidad de La Laguna hacia el SL y recogida de firmas.
 * Curso y libro CILA: Anualmente se organizan, auspiciados por la Facultad de Matemáticas, unos cursos de Introducción al Linux para Alumnos (CILA). En ese marco se ha elaborado un libro con colaboraciones de toda España.
 * Distintas conferencias, talleres, proyecciones, fiestas de instalación y mesas redondas relacionados con el SL.
-* Creación de Guachinche::Live CD [Referencia]: una distribución de GNU/Linux que puede arrancar desde el CD-ROM.
+* Creación de Guachinche::Live CD [9]: una distribución de GNU/Linux que puede arrancar desde el CD-ROM.
 * Portal de la futura Oficina del Software Libre (OSL) de la ULL.
 * Lebrillo: Web para la gestión de proyectos relacionados con el SL.
 
@@ -152,35 +158,49 @@ Esta iniciativa ha tenido muy buena acogida dentro de la ETSII y su entorno, ago
 
 ## Resultados
 
-![Respuestas a la pregunta “¿Cuándo instalaste Linux por primera vez?”](assets/imagen1.png)**Figura 4:** Respuestas a la pregunta “¿Cuándo instalaste Linux por primera vez?”
+![Respuestas a la pregunta “¿Cuándo instalaste Linux por primera vez?”](assets/imagen1.png)
+
+**Figura 4:** Respuestas a la pregunta “¿Cuándo instalaste Linux por primera vez?”
 
 En la Figura 4 podemos ver como el número de alumnos que no ha instalado Linux se ha mantenido en torno a un 45%. Desde el curso 2003/2004 esta situación en ya no es tan grave debido a la utilización de Guachinche, que no necesita instalación. Por otro lado el número de alumnos que a comienzos de curso ya tenían instalado Linux se ha incrementado en este último curso.
 
-![Respuestas a la pregunta “Valora los motivos de porqué no has instalado Linux”](assets/imagen3.png)**Figura 5:** Respuestas a la pregunta “Valora los motivos de porqué no has instalado Linux”
+![Respuestas a la pregunta “Valora los motivos de porqué no has instalado Linux”](assets/imagen3.png)
+
+**Figura 5:** Respuestas a la pregunta “Valora los motivos de porqué no has instalado Linux”
 
 Entre los motivos de por qué los alumnos no instalan Linux, Figura 5, podemos destacar la necesidad de expertos en instalación (A: “No se instalarlo”, C: “No he encontrado a nadie que me eche una mano” e I: “He intentado instalarlo pero no lo he conseguido”). Además, de la respuesta B (“No me atrevo a instalarlo”) se aprecia como los alumnos han ido perdiendo el miedo en el último año a la instalación del Linux, posiblemente debido al aumento de las facilidades para la instalación.
 
 También es de destacar el incremento en el último curso los resultados de la respuesta G (“No creo necesario instalarlo”), creemos que es debido a las nuevas posibilidades de trabajar con Guachinche sin necesidad de instalación.
 
-![Respuestas a la pregunta “Manera habitual en que trabajas las prácticas”](assets/imagen2.png)**Figura 6:** Respuestas a la pregunta “Manera habitual en que trabajas las prácticas”
+![Respuestas a la pregunta “Manera habitual en que trabajas las prácticas”](assets/imagen2.png)
+
+**Figura 6:** Respuestas a la pregunta “Manera habitual en que trabajas las prácticas”
 
 En cuanto a la manera de trabajar en el desarrollo de programas, Figura 6, las respuestas A (“Todo en Linux”) y B (“Primero compilo con el Free Pascal para Windows/dos, luego la paso al Free Pascal para Linux”) son las mas ortodoxas, mientras que las restantes (C, D y E) suponen utilizar compiladores que no son el Free Pascal (posiblemente de Borland). Se observa que en este último curso ha aumentado la proporción de alumnos que trabajan únicamente en Linux (hasta un 45%) mientras que los restantes aún han de pasar por Windows al menos en fase de edición.
 
-![Respuestas a la pregunta “Cómo valoras los siguientes aspectos en la utilización del entorno de programación Linux”](assets/imagen4.png)**Figura 7:** Respuestas a la pregunta “Cómo valoras los siguientes aspectos en la utilización del entorno de programación Linux”
+![Respuestas a la pregunta “Cómo valoras los siguientes aspectos en la utilización del entorno de programación Linux”](assets/imagen4.png)
+
+**Figura 7:** Respuestas a la pregunta “Cómo valoras los siguientes aspectos en la utilización del entorno de programación Linux”
 
 Entre los aspectos mas valorados en del SL (Figura 7) podemos destacar el hecho de su gratuidad (E: “La gran cantidad de herramientas gratuitas existentes” y G: “El que Linux sea totalmente gratuito”). Como menos valorado tenemos la comodidad de uso y su utilidad en la calle (C y F).
 
-![Respuestas a la pregunta “Valoración de los entornos de programación que conozcas”](assets/imagen5.png)**Figura 8:** Respuestas a la pregunta “Valoración de los entornos de programación que conozcas”
+![Respuestas a la pregunta “Valoración de los entornos de programación que conozcas”](assets/imagen5.png)
+
+**Figura 8:** Respuestas a la pregunta “Valoración de los entornos de programación que conozcas”
 
 Respecto a la valoración del entorno de programación Linux respecto al de Windows vemos como Linux ha venido ganando popularidad hasta llegar en el último curso a superar a Windows, ver Figura 8.
 
-![Relación entre las respuestas a las preguntas “Manera habitual en que trabajas las prácticas” y “¿Qué nota (posiblemente) obtendrás en prácticas?”](assets/imagen6.png)**Figura 9:** Relación entre las respuestas a las preguntas “Manera habitual en que trabajas las prácticas” y “¿Qué nota (posiblemente) obtendrás en prácticas?”
+![Relación entre las respuestas a las preguntas “Manera habitual en que trabajas las prácticas” y “¿Qué nota (posiblemente) obtendrás en prácticas?”](assets/imagen6.png)
+
+**Figura 9:** Relación entre las respuestas a las preguntas “Manera habitual en que trabajas las prácticas” y “¿Qué nota (posiblemente) obtendrás en prácticas?”
 
 Para valorar si la manera de trabajar esta relacionada con la nota final de prácticas esperada se correlacionaron estos dos aspectos. Observándose que dentro del número de alumnos que obtienen notas altas hay mayor proporción de los que trabajan íntegramente en Linux (A), aunque las diferencias no son significativas.
 
 Finalmente para comprobar si la migración ha afectado a los resultados académicos en la Figura 10, y las ya vistas Figuras 1 y 2, se muestran dichos resultados para los cursos desde 1998/1999 hasta 2002/2003 (aún no tenemos los resultados del presente curso). Se observa como apenas se producen ligeras diferencias entre aprobados, suspenso, no presentados con prácticas aptas (NP_y_PrNA) y no presentados con prácticas no aptas (NP_y_PrA).
 
-![Proporcion de notas academicas entre los cursos 1998/1999 y 2002/2003](assets/imagen7.png)**Figura 10:** Proporcion de notas academicas entre los cursos 1998/1999 y 2002/2003
+![Proporcion de notas academicas entre los cursos 1998/1999 y 2002/2003](assets/imagen7.png)
+
+**Figura 10:** Proporcion de notas academicas entre los cursos 1998/1999 y 2002/2003
 
 ## Conclusiones
 
@@ -190,7 +210,7 @@ Las sociedad se encuentra aún mas retrasada que nosotros en la implantación de
 
 ## Referencias
 
-* [http://www.etsii.ull.es/](http://www.etsii.ull.es/)
+1. [http://www.etsii.ull.es/](http://www.etsii.ull.es/)
 * [http://www.etsii.ull.es/~mtp1/](http://www.etsii.ull.es/~mtp1/)
 * [http://osl.ull.es/Members/pgb/ijcticdu/oodocument_view](http://osl.ull.es/Members/pgb/ijcticdu/oodocument_view)
 * [http://osl.ull.es/Proyectos/](http://osl.ull.es/Proyectos/)
